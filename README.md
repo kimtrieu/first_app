@@ -23,6 +23,13 @@ Things you may want to cover:
 
 * ...
 
+# Ruby on Rails Tutorial: first application
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+
+Kim Trieu 13/10/15
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
